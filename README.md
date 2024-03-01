@@ -10,3 +10,4 @@ The Economics Review at NYU:
 The NYU Data Science Review
 1. [Making EDA using Python Easy: DTale (Part 1)]("https://medium.com/nyu-ds-review/making-eda-using-python-easy-dtale-part-1-366f261da4e9")
 2. [Making EDA using Python Easy: DTale (Part 2)]("https://medium.com/nyu-ds-review/making-eda-using-python-easy-dtale-part-2-ce83d8325712")
+This site was built using [GitHub Pages](https://pages.github.com/).
